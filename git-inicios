@@ -1,0 +1,21 @@
+Comandos basicos de git
+
+1- para clonar un proyecto
+
+	git clone <link del repo>
+	
+2- prepara tus cambios antes de guardarlos
+
+	git add .
+	
+3-  guardar cambios
+
+	git commit -m "mensaje"
+	
+4- subir cambios al github
+
+	git push origin main
+	
+5- actualizar el proyecto
+
+	git pull origin main
